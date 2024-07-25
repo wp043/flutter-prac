@@ -180,7 +180,8 @@ class LanguageTranslationPageState extends State<LanguageTranslationPage> {
                           getLanguageCode(destinationLanguage),
                           languageController.text.toString());
                     },
-                    child: const Text("Translate")),
+                    child: const Text("Translate",
+                        style: TextStyle(color: Colors.white))),
               ),
               const SizedBox(
                 height: 20,
