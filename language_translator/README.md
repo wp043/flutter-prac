@@ -1,3 +1,1 @@
-# projects
-
-Language translator app
+# Translator App
