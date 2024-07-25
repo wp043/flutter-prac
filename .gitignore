@@ -1,0 +1,11 @@
+# Ignore all files in the .vscode folder
+.vscode/*
+
+# But keep the settings and extensions configuration files
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Optionally keep other specific configuration files
+# Uncomment the following lines if you want to include these configurations
+# !.vscode/launch.json
+# !.vscode/tasks.json
